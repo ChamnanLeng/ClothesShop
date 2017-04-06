@@ -141,7 +141,8 @@ public class Shop extends JFrame implements MouseListener{
 		setVisible(true);
 	}
 	
-	/////////////////////////////////////////////////////////////////////////////////////////////shirt information
+	
+//////shirt information
 	public void ShirtInfo(){
 		txtAmount1.setText("");
 		txtAmount2.setText("");
