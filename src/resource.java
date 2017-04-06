@@ -70,5 +70,10 @@ public class resource {
 	public static JPanel panelCard;
 	
 	//edited ta vea
+<<<<<<< HEAD
 	// ta vea ta K'nan
+=======
+	// ta vea
+	//go home
+>>>>>>> 9639e2db758db7ae6cb2158e9544c40878c5cfd2
 }
