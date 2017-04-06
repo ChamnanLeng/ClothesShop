@@ -69,8 +69,5 @@ public class resource {
 	public static JPanel panelAboutBorder=new Shop.myPanel(322,5,300,1,resource.textColorSecondary);
 	public static JPanel panelCard;
 	
-	/////////////////////////////////////////////////////////////////////////////////////////text filed
-//	public static JTextField txtAmount1=new Shop.myTextField();
-//	static JTextField txtAmount2=new Shop.myTextField();
-//	static JTextField txtAmount3=new Shop.myTextField();
+	//edited ta vea
 }
