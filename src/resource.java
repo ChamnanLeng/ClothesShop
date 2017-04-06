@@ -71,4 +71,5 @@ public class resource {
 	
 	//edited ta vea
 	// ta vea
+	//go home
 }
